@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+<para>Базовая теория&#13;</para>
+<para>Клиент-серверная архитектура.&#13;</para>
+<para>HTTP Методы запросов на сервер.&#13;</para>
+<para>Коды ответов HTTP сервера.&#13;</para>
+<para>Структуры HTTP запросов и ответов.&#13;</para>
+<para>JSON, XML. Их структура.&#13;</para>
+<para>Тестирование API через Postman (JS, автотесты API).&#13;</para>
+<para>Снятие и чтение логов c внешнего сервера.&#13;</para>
+<para>Снифинг http web трафика через Charles и Fiddler.&#13;</para>
+<para>Dev Tools веб браузеров (Google Chrome, FireFox).&#13;</para>
+<para>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов).&#13;</para>
+<para>Мобильное тестирование.&#13;</para>
+<para>Особенность iOS, Android, гайдлайны.&#13;</para>
+<para>Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят).&#13;</para>
+<para>Сборка Android приложений на Android Studio.&#13;</para>
+<para>ADB (управление андройд девайсами).&#13;</para>
+<para>Настройка прокси и vpn на iOS и Android.&#13;</para>
+<para>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.&#13;</para>
+<para>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса).&#13;</para>
+<para>Основы bash скриптинг, автоматизация рутинных задач на сервере.&#13;</para>
+<para>Доступ к удалённым серверам.&#13;</para>
+<para>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).&#13;</para>
+<para>База данных Postgres (установка, настройка и использование).&#13;</para>
+<para>Нереляционная база данных Redis (установка, настройка и использование).&#13;</para>
+<para>Нагрузочное тестирование в Jmeter.&#13;</para>
+<para>Методология разработки Scrum.&#13;</para>
+<para>Python. (Изучение основ. Создание клиент серверного приложения).&#13;</para>
+</article>
